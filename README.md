@@ -10,3 +10,4 @@ A SwiftUI iOS chat conversation app following Apple's, "[Develop in Swift Tutori
 - SwiftUI
 - iOS 26
 - Xcode 26
+- SwiftLint
